@@ -1,7 +1,7 @@
 # Generated from rule/Custom_Direct.list
 # REPO: https://github.com/Aethersailor/Custom_OpenClash_Rules
 # SOURCE: https://github.com/Aethersailor/Custom_OpenClash_Rules/blob/main/rule/Custom_Direct.list
-# TOTAL: 642
+# TOTAL: 651
 
 payload:
   - '*m-team*'
@@ -137,6 +137,7 @@ payload:
   - '+.congmiqq.com'
   - '+.constasj.me'
   - '+.coros.com'
+  - '+.crrcgo.cc'
   - '+.crtyhr.com'
   - '+.csqaq.com'
   - '+.cyouzai.com'
@@ -181,6 +182,7 @@ payload:
   - '+.everdrawing.com'
   - '+.excelbbx.net'
   - '+.exiliumgf.com'
+  - '+.fb71ef91e1014.beer'
   - '+.fdfinvoice.com'
   - '+.feihengip.com'
   - '+.feizhiyi.com'
@@ -413,6 +415,7 @@ payload:
   - '+.nodcloud.com'
   - '+.noyer.eu.org'
   - '+.nxog.top'
+  - '+.oai.sb'
   - '+.oceando.cloud'
   - '+.ok321.top'
   - '+.onebuygz.com'
@@ -475,6 +478,7 @@ payload:
   - '+.scnyw.com'
   - '+.scratch5.com'
   - '+.sct.ftqq.com'
+  - '+.scyol.com'
   - '+.sdk-log-upload-os.hoyoverse.com'
   - '+.seaflysoft.com'
   - '+.seedpace.com'
@@ -489,6 +493,7 @@ payload:
   - '+.shunjing.xin'
   - '+.shuqiandiqiu.com'
   - '+.shyxhy.com'
+  - '+.sisiim.com'
   - '+.sixloy428.top'
   - '+.sksight.com'
   - '+.snfox.com'
@@ -534,6 +539,7 @@ payload:
   - '+.tool56.com'
   - '+.topwd.top'
   - '+.tozi-cn.top'
+  - '+.trjho.com'
   - '+.ts3.ink'
   - '+.ttshitu.com'
   - '+.tulipsport.com'
@@ -543,6 +549,7 @@ payload:
   - '+.u-carloan.com'
   - '+.uascent-iot.com'
   - '+.ugdocker.link'
+  - '+.ugediao.com'
   - '+.ugnas.cloud'
   - '+.ulife.group'
   - '+.us.ci'
@@ -561,6 +568,7 @@ payload:
   - '+.wenyi188.com'
   - '+.wera.eu.org'
   - '+.weshape3d.com'
+  - '+.wetolink.com'
   - '+.wewillpro.com'
   - '+.wildfirechat.net'
   - '+.wjx.top'
@@ -571,6 +579,7 @@ payload:
   - '+.wwwh.eu.org'
   - '+.wwwwqq.com'
   - '+.wxdw.top'
+  - '+.x-gpu.com'
   - '+.x86pi.com'
   - '+.xbcloudprint.com'
   - '+.xbgjw.com'
